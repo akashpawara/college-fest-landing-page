@@ -330,7 +330,7 @@ a:hover
   }
 }
 .eve:nth-child(1){
-  background-image: url("../images/tech.png");
+  background-image: url("../images/testTech.png");
   background-size: cover;
   background-position: center;
 
