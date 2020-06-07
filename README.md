@@ -4,9 +4,9 @@
  
 ![Product Gif](assets/images/trimmedVerve.gif) ![Product Gif](assets/images/trimmedVerveMob.gif)
 
-This is a Landing Page for "Verve" fest organized by Vidyalankar Institute of Technology in 2018-19. It's a Pure html5, css and basic javascript webpage. I have used animate.css to animate some components. Validation of components is done using Jquery. I have used SVG animations for interactive intro.
+This is a Landing Page for "Verve" fest organized by Vidyalankar Institute of Technology in 2018-19. It's a pure html5, css and ES5 responsive webpage. I have used animate.css to animate some components. Validation of components is done using Jquery. I have used SVG animations for interactive intro and logo.
 
-You can [check out](https://github.com/akashpawara/countdown) this repositry for interactive countdown used in this webpage. 
+You can [check out](https://github.com/akashpawara/countdown) this repository for interactive countdown used in this webpage. 
 
 ![Product Gif](assets/images/trimmedVerveLogo.gif)
 
