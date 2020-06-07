@@ -1,12 +1,12 @@
 # [College Fest Landing Page](https://akashpawara.github.io/college-fest-landing-page/) 
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![Logo](https://img.shields.io/badge/Logo-verve--vit-red)](https://akashpawara.github.io/college-fest-landing-page/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkdin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
+ ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/in-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
  <!-- [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby)  -->
  
 
 
-![Product Gif](images/trimmedVerve.gif)![Product Gif](images/trimmedVerveLogo.gif)
-![Product Gif](images/trimmedVerveMob.gif)
+![Product Gif](assets/images/trimmedVerve.gif)![Product Gif](assets/images/trimmedVerveLogo.gif)
+![Product Gif](assets/images/trimmedVerveMob.gif)
 
 
 
@@ -14,16 +14,10 @@
 
 
 * [Quick Start](#quick-start)
-<!-- * [Documentation](#documentation) -->
 * [File Structure](#file-structure)
-<!-- * [Browser Support](#browser-support) -->
-<!-- * [Resources](#resources) -->
 * [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
-<!-- * [Licensing](#licensing) -->
-<!-- * [Useful Links](#useful-links) -->
-
-
+* [Social Media](#social-media)
 
 ## Quick start
 
@@ -102,11 +96,13 @@ If you have questions or need help integrating the product please [contact us](h
 
 
 
-##### Social Media
+## Social Media
 
 Linkedin: <https://www.linkedin.com/in/akashpawara>
 
 Dev: <https://dev.to/akashpawara>
+
+Behance: <https://www.behance.net/akashpawara>
 
 Instagram: <https://instagram.com/akash_pawara_>
 
