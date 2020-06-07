@@ -1,10 +1,7 @@
 # [College Fest Landing Page](https://akashpawara.github.io/college-fest-landing-page/) 
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
- <!-- [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby)  -->
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
  
-
-
 ![Product Gif](assets/images/trimmedVerve.gif) ![Product Gif](assets/images/trimmedVerveMob.gif)
 
 This is a Landing Page for "Verve" fest organized by Vidyalankar Institute of Technology. It's a Pure html5, css and basic javascript webpage. I have used animate.css to animate some components. Validation of components is done using Jquery. I have used SVG animations for interactive intro.
@@ -85,7 +82,7 @@ college-fest-landing-page/
 │       ├── trimmedVerve.gif
 │       ├── trimmedVerveMob.gif
 │       └── trimmedVerveLogo.gif
-├── inde.html
+├── index.html
 ├── justjamgal.html
 ├── sportsgal.html
 └── techgal.html
