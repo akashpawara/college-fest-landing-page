@@ -5,10 +5,14 @@
  
 
 
-![Product Gif](assets/images/trimmedVerve.gif)![Product Gif](assets/images/trimmedVerveLogo.gif)
+![Product Gif](assets/images/trimmedVerve.gif)
+<!--  -->
+
 ![Product Gif](assets/images/trimmedVerveMob.gif)
+<!--  -->
 
-
+![Product Gif](assets/images/trimmedVerveLogo.gif)
+<!--  -->
 
 ## Table of Contents
 
