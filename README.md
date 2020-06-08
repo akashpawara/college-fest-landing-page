@@ -6,6 +6,8 @@
 
 This is a Landing Page for "Verve" fest organized by Vidyalankar Institute of Technology in 2018-19. It's a pure html5, css and ES5 responsive webpage. I have used animate.css to animate some components. Validation of components is done using Jquery. I have used SVG animations for interactive intro and logo.
 
+To check out live demo, [Click here](https://akashpawara.github.io/college-fest-landing-page/)
+
 You can [check out](https://github.com/akashpawara/countdown) this repository for interactive countdown used in this webpage. 
 
 ![Product Gif](assets/images/trimmedVerveLogo.gif)
