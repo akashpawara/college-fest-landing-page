@@ -92,7 +92,7 @@ college-fest-landing-page/
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://api.whatsapp.com/send?phone=917506021898) instead of opening an issue.
+If you have questions or need help integrating the product please [contact me](https://api.whatsapp.com/send?phone=917506021898) instead of opening an issue.
 
 
 
