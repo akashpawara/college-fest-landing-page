@@ -19,16 +19,12 @@ This Logo was build using Illustrator and animated using cubic bezier animation.
 
 * [Quick Start](#quick-start)
 * [File Structure](#file-structure)
-* [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
 * [Social Media](#social-media)
 
 ## Quick start
 
 - Clone the repo: `git clone https://github.com/akashpawara/college-fest-landing-page.git`.
-
-
-<!-- ## Documentation -->
 
 
 
