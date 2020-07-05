@@ -1,6 +1,6 @@
 # [College Fest Landing Page](https://akashpawara.github.io/college-fest-landing-page/) 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
+![version](https://img.shields.io/badge/version-1.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara) ![tag](https://img.shields.io/badge/tag-1.0-blue.svg)
  
 ![Product Gif](assets/images/trimmedVerve.gif) ![Product Gif](assets/images/trimmedVerveMob.gif)
 
@@ -16,7 +16,6 @@ This Logo was build using Illustrator and animated using cubic bezier animation.
 
 ## Table of Contents
 
-
 * [Quick Start](#quick-start)
 * [File Structure](#file-structure)
 * [Technical Support or Questions](#technical-support-or-questions)
@@ -25,8 +24,6 @@ This Logo was build using Illustrator and animated using cubic bezier animation.
 ## Quick start
 
 - Clone the repo: `git clone https://github.com/akashpawara/college-fest-landing-page.git`.
-
-
 
 ## File Structure
 Within the download you'll find the following directories and files:
@@ -84,28 +81,19 @@ college-fest-landing-page/
 ├── justjamgal.html
 ├── sportsgal.html
 └── techgal.html
- 
-
-
 ```
-
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact me](https://api.whatsapp.com/send?phone=917506021898) instead of opening an issue.
-
+If you have questions or need help integrating the product, [contact me](https://api.whatsapp.com/send?phone=917506021898) me on whatsapp or email me at (akashpawara29@gmail.com).
 
 
 ## Social Media
 
 Linkedin: <https://www.linkedin.com/in/akashpawara>
 
-Dev: <https://dev.to/akashpawara>
-
-Behance: <https://www.behance.net/akashpawara>
+Medium: <https://medium.com/@akashpawara>
 
 Instagram: <https://instagram.com/akash_pawara_>
 
 Whatsapp: <https://api.whatsapp.com/send?phone=917506021898>
-
-
